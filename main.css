@@ -1,0 +1,17 @@
+body{
+background-color: #22303c;
+}
+
+.Select-control {
+    background-color: #22303c !important;
+    color: white;
+}
+
+.Select-menu-outer {
+    background-color: #22303c;
+    color: white;
+}
+
+.Select-value-label {
+    color: white !important;
+}
