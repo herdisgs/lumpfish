@@ -15,6 +15,8 @@ pip install dash dash-bootstrap-components plotly pandas
 ```
 
 # Usage
+Update the file paths in app.py.
+
 To run the app, navigate to the project's directory and run the following command:
 
 ```sh
@@ -23,7 +25,7 @@ python app.py
 Then open a web browser and navigate to http://127.0.0.1:8050/
 
 # Data
-The data used in this project includes the following datasets:
+The app uses the following data files:
 
 lump_data.csv - main fisheries data
 
