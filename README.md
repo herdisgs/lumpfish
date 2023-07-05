@@ -1,2 +1,4 @@
 # lumpfish
-Analysis of bycatch in lumpfish gillnets
+Analysis of bycatch in lumpfish gillnets using plotly and python dash
+
+App here: https://herdiss.pythonanywhere.com/
