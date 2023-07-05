@@ -80,7 +80,7 @@ app.layout = dbc.Container([
 
             dbc.Row(dcc.Graph(id = 'cumsum_graph')),
         ]),
-        dbc.Col(html.Img(src = 'https://herdiss.pythonanywhere.com/static/map2.png', style={'margin-top': '15px'}), align='start')
+        dbc.Col(html.Img(src = 'https://herdiss.pythonanywhere.com/static/map.png', style={'margin-top': '15px'}), align='start')
     ]),
 
 
